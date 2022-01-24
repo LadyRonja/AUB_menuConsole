@@ -1,0 +1,7 @@
+D:\AUP\Test och Bedömning\Programmeringsupgifter\Torsdag\ConsoleMenu\bin\Debug\ConsoleMenu.exe.config
+D:\AUP\Test och Bedömning\Programmeringsupgifter\Torsdag\ConsoleMenu\bin\Debug\ConsoleMenu.exe
+D:\AUP\Test och Bedömning\Programmeringsupgifter\Torsdag\ConsoleMenu\bin\Debug\ConsoleMenu.pdb
+D:\AUP\Test och Bedömning\Programmeringsupgifter\Torsdag\ConsoleMenu\obj\Debug\ConsoleMenu.csproj.AssemblyReference.cache
+D:\AUP\Test och Bedömning\Programmeringsupgifter\Torsdag\ConsoleMenu\obj\Debug\ConsoleMenu.csproj.CoreCompileInputs.cache
+D:\AUP\Test och Bedömning\Programmeringsupgifter\Torsdag\ConsoleMenu\obj\Debug\ConsoleMenu.exe
+D:\AUP\Test och Bedömning\Programmeringsupgifter\Torsdag\ConsoleMenu\obj\Debug\ConsoleMenu.pdb
